@@ -1893,7 +1893,7 @@ input {
     .content-third__floor-second--elements {
         display: flex;
         position: absolute;
-        top: 2920px;
+        top: 2930px;
         left: 50%;
         transform: translate(-50%);
         gap: 20px;
@@ -2472,7 +2472,7 @@ input {
     }
 
     .content-third__floor-second--elements {
-        top: 2310px;
+        top: 2330px;
         gap: 10px;
     }
 
