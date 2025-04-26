@@ -853,7 +853,7 @@ input {
 .content-fourth__floor-third--elements {
     display: none;
     position: absolute;
-    top: 3720px;
+    top: 3730px;
     left: 50%;
     transform: translate(-50%);
     gap: 20px;
@@ -1893,7 +1893,7 @@ input {
     .content-third__floor-second--elements {
         display: flex;
         position: absolute;
-        top: 2930px;
+        top: 2920px;
         left: 50%;
         transform: translate(-50%);
         gap: 20px;
@@ -2472,7 +2472,7 @@ input {
     }
 
     .content-third__floor-second--elements {
-        top: 2340px;
+        top: 2320px;
         gap: 10px;
     }
 
@@ -2502,7 +2502,7 @@ input {
     }
 
     .content-fourth__floor-third--elements {
-        top: 2960px;
+        top: 2970px;
         gap: 10px;
     }
 
