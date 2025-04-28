@@ -307,6 +307,7 @@ input {
 .content-first__floor-second__column-first--text {
     font-size: 14px;
     font-weight: 400;
+    color: var(--color-white);
 }
 
 .content-first__floor-second__column-second {
@@ -329,6 +330,7 @@ input {
 .content-first__floor-second__column-second--text {
     font-size: 14px;
     font-weight: 400;
+    color: var(--color-white);
 }
 
 .content-first__floor-second__column-third {
@@ -348,6 +350,7 @@ input {
 .content-first__floor-second__column-third--text {
     font-size: 14px;
     font-weight: 400;
+    color: var(--color-white);
 }
 
 .content-first__floor-second--arrow-left {
