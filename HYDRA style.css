@@ -170,7 +170,7 @@ input {
 .header__menu--item--is-active a {
     color: transparent;
     background: var(--color-violet);
-    background-clip: text;
+    -webkit-background-clip: text;
 
 }
 
@@ -230,13 +230,13 @@ input {
 .content-first__column-first--zogolovok--element-first {
     color: transparent;
     background: var(--color-violet);
-    background-clip: text;
+    -webkit-background-clip: text;
 }
 
 .content-first__column-first--zogolovok--element-second {
     color: transparent;
     background: var(--color-violet);
-    background-clip: text;
+    -webkit-background-clip: text;
 }
 
 .content-first__column-first--text {
@@ -2619,7 +2619,7 @@ input {
     .header__menu--item a:hover {
         color: transparent;
         background: var(--color-violet);
-        background-clip: text;
+        -webkit-background-clip: text;
     }
 
     .header__buttons--first:hover {
@@ -2641,13 +2641,13 @@ input {
     .footer__column-second--item:hover {
         color: transparent;
         background: var(--color-violet);
-        background-clip: text;
+        -webkit-background-clip: text;
     }
 
     .footer__column-third--item:hover {
         color: transparent;
         background: var(--color-violet);
-        background-clip: text;
+        -webkit-background-clip: text;
     }
 
     .footer__column-fourth--images--img:hover {
